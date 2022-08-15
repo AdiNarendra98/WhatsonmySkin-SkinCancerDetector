@@ -17,7 +17,7 @@ Skin cancer is considered as one of the most dangerous types of cancers and ther
 - **Gradio**
 - **Numpy, Matplotlib, Seaborn**
 
-## Notebooks Made
+## Notebooks Made 📚🧑🏻‍💻
 
 1. ### Version 1 ( Tensorflow Based CNN Model)
 - #### Accuracy - 82 %
