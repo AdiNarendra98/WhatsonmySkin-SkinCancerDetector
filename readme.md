@@ -22,12 +22,29 @@ Skin cancer is considered as one of the most dangerous types of cancers and ther
 1. ### Version 1 ( Tensorflow Based CNN Model)
 - #### Accuracy - 82 %
 - #### Architecture(Self-Made Convolutional Neural Network):
-![V1](https://github.com/AdiNarendra98/WhatsonmySkin-SkinCancerDetector/blob/main/V1(Tensorflow)/model.png)
+<p align="center">
+  <img 
+    width="400"
+    height="1500"
+    src="https://github.com/AdiNarendra98/WhatsonmySkin-SkinCancerDetector/blob/main/V1(Tensorflow)/model.png"
+  >
+</p>
+
 
 
 2. ### Version 2 ( Fastai Based Resnet Transfer Learning Model)
 - #### Accuracy - 96 %
-- #### Architecture( Resnet Architecture:
+- #### Architecture( Resnet Architecture):
+<p align="center">
+  <img 
+    width="400"
+    height="650"
+    src="https://github.com/AdiNarendra98/WhatsonmySkin-SkinCancerDetector/blob/main/ss/rs1.png"
+  >
+</p>
+- A simplified view of Resenet 34:
+
+  
 
 
 
