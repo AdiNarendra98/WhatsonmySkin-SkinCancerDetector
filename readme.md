@@ -66,5 +66,8 @@ Skin cancer is considered as one of the most dangerous types of cancers and ther
 
 ![ss](https://github.com/AdiNarendra98/WhatsonmySkin-SkinCancerDetector/blob/main/ss/ss1.png)
 
+## Inspiration and Others
+- Thanks to Ahed Jneed and Marwan Mohammed for their work on this cause. Also thanks to [Tanishq Abraham](https://tmabraham.github.io/blog/gradio_hf_spaces_tutorial) for his wonderful and ever helpful blog on Gradio App with Fastai.
+- Also thanks to the authors of [Paper 1](https://cs.stanford.edu/people/esteva/nature/) and [Paper 2](https://ieeexplore.ieee.org/document/8641762) for providing an background knowledge to work on this project.
 
 
