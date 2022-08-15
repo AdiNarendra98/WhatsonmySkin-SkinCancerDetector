@@ -42,7 +42,11 @@ Skin cancer is considered as one of the most dangerous types of cancers and ther
     src="https://github.com/AdiNarendra98/WhatsonmySkin-SkinCancerDetector/blob/main/ss/rs1.png"
   >
 </p>
-- A simplified view of Resenet 34:
+
+
+* ##### A simplified view of Resnet 34:
+
+![ss](https://github.com/AdiNarendra98/WhatsonmySkin-SkinCancerDetector/blob/main/ss/ss22.png)
 
   
 
