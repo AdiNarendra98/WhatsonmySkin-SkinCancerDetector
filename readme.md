@@ -66,8 +66,10 @@ Skin cancer is considered as one of the most dangerous types of cancers and ther
 
 ![ss](https://github.com/AdiNarendra98/WhatsonmySkin-SkinCancerDetector/blob/main/ss/ss1.png)
 
-## Inspiration and Others
+## Acknowlegement and Resources
 - Thanks to Ahed Jneed and Marwan Mohammed for their work on this cause. Also thanks to [Tanishq Abraham](https://tmabraham.github.io/blog/gradio_hf_spaces_tutorial) for his wonderful and ever helpful blog on Gradio App with Fastai.
 - Also thanks to the authors of [Paper 1](https://cs.stanford.edu/people/esteva/nature/) and [Paper 2](https://ieeexplore.ieee.org/document/8641762) for providing an background knowledge to work on this project.
-
+- To know more about:
+    - Convolutional Neural Network (CNN)- [Blog 1](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/), [Blog 2](https://pythonprogramming.net/convolutional-neural-network-cnn-machine-learning-tutorial/)
+    - Residual Networks and Resnet - [Paper](https://arxiv.org/abs/1512.03385), [Blog 1](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
 
